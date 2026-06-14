@@ -32,5 +32,5 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information on contributing to
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Testing with BrowserStack
+## hacks protocol  with BrowserStack
 This project is tested with BrowserStack.
